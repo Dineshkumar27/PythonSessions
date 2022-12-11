@@ -1,0 +1,11 @@
+
+ 1. Write a Python program to get the largest number from a list
+ 2. Write a Python script to concatenate following dictionaries to create a new one. Go to the editor
+ 3. Given the list [a,b,a,b,f,d,f,d,s,d,e,r,d] expected result:{a:2,b:2,d:3,f:2,s:1,e:1,r:1}
+ 4. write a program to print the names ending with vowels ['Raja','Ragu','Anil','Kamni','Kavin','Vinith']
+ 5. Write a program to generate numbers from 110 to 130 and convert into list
+ 6. Write a Python program to find the repeated items of a tuple
+ 7. [(1,2),(3,5),(9,0),(45,67)] expected output should be [0,1,2,3,5,9,45,67]
+ 8. Write a program to find the given day is weekday or weekend
+ 9. Write a program to remove the duplicates from the given list [a,b,a,b,f,d,f,d,s,d,e,r,d]
+ 10.Write a program find get how many emails from fita domain. [xyz@gmail.com, mnp@yahoo.com, knkkjk@fita.com,nhmkk@fita.com, juiuyh@fita.com,cvbvbn@gmail.com]

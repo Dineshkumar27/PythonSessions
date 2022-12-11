@@ -1,0 +1,17 @@
+{
+    "firstName": "John",
+    "lastName": "Fernandas",
+    "age": 23,
+    "Country": "USA",
+    "isMarried": true,
+    "skills": [
+        "Python",
+        "HTML",
+        "C"
+    ],
+    "address": {
+        "stree": "3rd",
+        "city": "New Jersy",
+        "zip": 7979879
+    }
+}
